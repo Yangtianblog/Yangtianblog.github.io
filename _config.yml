@@ -17,9 +17,9 @@
 ## => Site Settings
 ##############################
 url: https://Yangtianblog.github.io
-title: Qi's Site
+title: blog Site
 description: >
-    Tian Yang's Site | 田洋的小站
+    Yangtian's Site | 田洋的个人博客
 
 
 ## => Language and Timezone
@@ -31,10 +31,11 @@ timezone: Asia/Shanghai
 ## => Author and Social
 ##############################
 author:
-  name: Tian Yang
-  email: kitian616@outlook.com
-  github:  kitian616
-  weibo: 234695683
+  name: Yangtian
+  email: 1486303708@qq.com
+  github: Yangtiancoder
+  weibo: 5393123005
+  zhihu: tian-yang-48-83
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
