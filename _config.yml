@@ -16,11 +16,11 @@
 
 ## => Site Settings
 ##############################
-url: https://tianqi.name
+url: https://yangtian.xyz
 baseurl: /
 title: Qi's Site
 description: >
-    Tian Qi's Site | 田琦的小站
+    Tian Yang's Site | 田洋的小站
 
 
 ## => Language and Timezone
@@ -32,18 +32,15 @@ timezone: Asia/Shanghai
 ## => Author and Social
 ##############################
 author:
-  name: Tian Qi
+  name: Tian Yang
   email: kitian616@outlook.com
-  twitter: kitian616
   github:  kitian616
-  googleplus: 101827554735084402671
   weibo: 234695683
-  douban: kitian616
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/kitian616.github.io
+repository: Yangtianblog/Yangtianblog.github.io
 repository_tree: master
 
 
