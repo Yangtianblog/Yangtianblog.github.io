@@ -24,6 +24,14 @@
         </a>
       </li>
     {%- endif -%}
+    
+    {%- if _author.weixin -%}
+      <li title="{{ __return | replace: '[NAME]', 'Weixin' }}">
+        <a class="button button--circle weixin-button" itemprop="sameAs" href="https://raw.githubusercontent.com/Yangtiancoder/Yangtiancoder.github.io/master/assets/images/wexin.jpg" target="_blank">
+          <div class="icon">{%- include svg/icon/social/weixin.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
     {%- if _author.facebook -%}
       <li title="{{ __return | replace: '[NAME]', 'Facebook' }}">
